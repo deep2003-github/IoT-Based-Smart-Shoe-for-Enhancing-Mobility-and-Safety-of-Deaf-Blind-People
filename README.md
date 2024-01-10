@@ -1,1 +1,3 @@
 # IoT-Based-Smart-Shoe-for-Enhancing-Mobility-and-Safety-of-Deaf-Blind-People
+
+A smart shoe for the blind and deaf could have sensors to detect obstacles and provide haptic feedback for navigation. It might also incorporate communication features, like vibrating patterns or small displays, to convey messages or alerts. Pairing it with a mobile app could enhance its functionality, allowing users to customize settings and receive additional information. The goal is to create a reliable and intuitive tool that enhances mobility and communication for individuals with visual and auditory impairments. 
